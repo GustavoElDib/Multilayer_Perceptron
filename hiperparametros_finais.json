@@ -1,0 +1,10 @@
+{
+    "input_neurons": 120,
+    "hidden_neurons": 50,
+    "output_neurons": 26,
+    "epochs": 100,
+    "learning_rate": 0.01,
+    "train": "70%",
+    "validation": "10%",
+    "test": "20%"
+}
