@@ -1,8 +1,8 @@
 {
     "input_neurons": 120,
-    "hidden_neurons": 64,
+    "hidden_neurons": 50,
     "output_neurons": 26,
-    "epochs": 8000,
+    "epochs": 7000,
     "learning_rate": 0.015,
     "train": "70%",
     "validation": "10%",
